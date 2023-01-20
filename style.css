@@ -1,7 +1,10 @@
 body {
-    background: #558800;
+    background: #554400;
 }
 
 h2 {
-    color: bisque;
+    color: #fff;
+}
+p {
+    color: #fff;
 }
